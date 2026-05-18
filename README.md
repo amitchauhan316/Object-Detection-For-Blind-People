@@ -48,5 +48,5 @@ This project is developed for educational purposes.
 
 👨‍💻 Author
 
-Aarjav Sheth
-GitHub: https://github.com/Sheth3433/Object-Detection-for-Blind-People
+Amit Chauhan
+GitHub: https://github.com/amitchauhan316/Object-Detection-for-Blind-People
